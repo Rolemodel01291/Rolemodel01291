@@ -69,6 +69,9 @@ My Proficient Skills:
 ## 📬 Get in Touch
 
 - LinkedIn:  https://www.linkedin.com/in/benjamin-xu/
+- Gmail: carlmaria1996@gmail.com
+- Skype: live:.cid.2253dfbf051f4a0f
+- Telegram: @victor01291
 
 <details>
   <summary> More things </summary>
