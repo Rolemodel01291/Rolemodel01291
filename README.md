@@ -14,47 +14,47 @@ My Proficient Skills:
  - Frontend: React(JS/TS) & Redux(Saga/Thunk/Slice), Next.js, Vue.js, Angular, Html, CSS, Bootstrap
  - Backend: Django & Django Restframework, Node.js, Express.js, Laravel, Codeigniter, PHP
  - Mobile: React Native, Ionic, Android(Java)
- - Others: Mathematics, Machine Learning, Strong Algorithm, Data Science, Several UI frameworks (Material UI, Ant Design, React Bootstrap, ...)
+ - Database: MySQL, MongoDB, Postgresql
  - Tools: AWS, Azure, Docker, Heroku, Netlify, Firebase, Git, Slack
  - Stylish: Airbnb, PSR-12, PEP-8 ...
-
+ - Others: Mathematics, Machine Learning, Strong Algorithm, Data Science, Several UI frameworks (Material UI, Ant Design, React Bootstrap, ...)
 
 ## My Main Skill Set:
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/Rolemodel01291/Rolemodel01291/main/assets/react-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/Rolemodel01291/Rolemodel01291/master/assets/react-original.svg" height="auto" width="40">
   
-<img src="https://raw.githubusercontent.com/Rolemodel01291/Rolemodel01291/main/assets/django.png" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/Rolemodel01291/Rolemodel01291/master/assets/django.png" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/Rolemodel01291/Rolemodel01291/main/assets/nodejs-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/Rolemodel01291/Rolemodel01291/master/assets/nodejs-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/Rolemodel01291/Rolemodel01291/main/assets/express-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/Rolemodel01291/Rolemodel01291/master/assets/express-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/Rolemodel01291/Rolemodel01291/main/assets/mongodb-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/Rolemodel01291/Rolemodel01291/master/assets/mongodb-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/Rolemodel01291/Rolemodel01291/main/assets/angular.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/Rolemodel01291/Rolemodel01291/master/assets/angular.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/Rolemodel01291/Rolemodel01291/main/assets/javascript-plain.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/Rolemodel01291/Rolemodel01291/master/assets/javascript-plain.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/Rolemodel01291/Rolemodel01291/main/assets/python.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/Rolemodel01291/Rolemodel01291/master/assets/python.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/Rolemodel01291/Rolemodel01291/main/assets/css3-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/Rolemodel01291/Rolemodel01291/master/assets/css3-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/Rolemodel01291/Rolemodel01291/main/assets/sass-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/Rolemodel01291/Rolemodel01291/master/assets/sass-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/Rolemodel01291/Rolemodel01291/main/assets/react-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/Rolemodel01291/Rolemodel01291/master/assets/react-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/Rolemodel01291/Rolemodel01291/main/assets/jquery-plain.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/Rolemodel01291/Rolemodel01291/master/assets/jquery-plain.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/Rolemodel01291/Rolemodel01291/main/assets/html5-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/Rolemodel01291/Rolemodel01291/master/assets/html5-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/Rolemodel01291/Rolemodel01291/main/assets/bootstrap-plain.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/Rolemodel01291/Rolemodel01291/master/assets/bootstrap-plain.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/Rolemodel01291/Rolemodel01291/main/assets/visualstudio-plain.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/Rolemodel01291/Rolemodel01291/master/assets/visualstudio-plain.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/Rolemodel01291/Rolemodel01291/main/assets/redux-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/Rolemodel01291/Rolemodel01291/master/assets/redux-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/Rolemodel01291/Rolemodel01291/main/assets/git-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/Rolemodel01291/Rolemodel01291/master/assets/git-original.svg" height="auto" width="40">
 </p>
 
 ## &#x1f4c8; My GitHub Stats
@@ -68,24 +68,21 @@ My Proficient Skills:
 
 ## 📬 Get in Touch
 
-
-- Website:  https://zhenan-portfolio.herokuapp.com [1]
-- LinkedIn:  https://www.linkedin.com/in/zhenangroup/ [2]
-- Stackoverflow:  https://stackoverflow.com/users/12492241/zhenan-dev [3]
+- LinkedIn:  https://www.linkedin.com/in/benjamin-xu/
 
 <details>
   <summary> More things </summary>
   <br>
   <p align="center">
-    <a href= "https://github.com/anuraghazra/github-readme-stats"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=zhenangroup&layout=compact" /></a>
+    <a href= "https://github.com/anuraghazra/github-readme-stats"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Rolemodel01291&layout=compact" /></a>
   </p>
   <p>
-    - 🔭 I’m currently working on <a target="_blank" href="https://findsingles.online/">findsingles.online</a> project. <br/>
-    - 🌱 I’m currently learning Angular.<br/>
-  - 👯 I’m looking to collaborate on <a href="https://github.com/zhenangroup/React-native-hybridapp" target="_blank">Hybrid App</a> Development.<br/>
-    - 🤔 I’m looking for help with Docker<br/>
-    - 💬 Ask me about Django and Laravel.<br/>
-    - ⚡ Fun fact: Sport - badminton<br/>
+    - 🔭 I’m currently working on <a target="_blank" href="https://chiplusgo-95ec4.web.app
+">chiplusgo admin portal</a> project. <br/>
+    - 🌱 I’m currently learning blockchain.<br/>
+    - 🤔 I’m looking for a stable, long-term full time job<br/>
+    - 💬 Ask me about React, Django and Laravel.<br/>
+    - ⚡ Fun fact: Sport - Soccer, Tennis<br/>
   </p> 
   
 </details>
