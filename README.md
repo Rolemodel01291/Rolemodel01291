@@ -1,14 +1,14 @@
-![alt README header](https://raw.githubusercontent.com/zhenangroup/zhenangroup/master/assets/Picture1.png)
+![alt README header](https://raw.githubusercontent.com/Rolemodel01291/Rolemodel01291/master/assets/Picture1.png)
 ![GitHub Views](https://komarev.com/ghpvc/?username=zhenangroup&color=FAC151)
-[![typescript](https://img.shields.io/badge/React-Expert-FAC151.svg?logo=react&logoWidth=20)](https://github.com/zhenangroup)
-[![typescript](https://img.shields.io/badge/Django-Expert-FAC151.svg?logo=django&logoWidth=20)](https://github.com/zhenangroup)
-[![typescript](https://img.shields.io/badge/Mathematics-Expert-FAC151.svg?logo=mathematics&logoWidth=20)](https://github.com/zhenangroup)
+[![typescript](https://img.shields.io/badge/React-Expert-FAC151.svg?logo=react&logoWidth=20)](https://github.com/Rolemodel01291)
+[![typescript](https://img.shields.io/badge/Django-Expert-FAC151.svg?logo=django&logoWidth=20)](https://github.com/Rolemodel01291)
+[![typescript](https://img.shields.io/badge/Mathematics-Expert-FAC151.svg?logo=mathematics&logoWidth=20)](https://github.com/Rolemodel01291)
 ## Senior Full-Stack Engineer
 
 Hey 👋🏻,
 
 
-I am a senior full-stack engineer with 7+ years of hands on experience from China.
+I am a senior full-stack engineer with +10 years of experience.
 
 My Proficient Skills: 
  - Frontend: React(JS/TS) & Redux(Saga/Thunk/Slice), Next.js, Vue.js, Angular.js
