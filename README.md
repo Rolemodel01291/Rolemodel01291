@@ -1,4 +1,4 @@
-<!-- ![alt README header](https://raw.githubusercontent.com/Rolemodel01291/Rolemodel01291/master/assets/Picture1.png) -->
+![alt README header](https://raw.githubusercontent.com/Rolemodel01291/Rolemodel01291/master/assets/Picture1.png)
 ![GitHub Views](https://komarev.com/ghpvc/?username=Rolemodel01291&color=FAC151)
 [![typescript](https://img.shields.io/badge/React-Expert-FAC151.svg?logo=react&logoWidth=20)](https://github.com/Rolemodel01291)
 [![typescript](https://img.shields.io/badge/Django-Expert-FAC151.svg?logo=django&logoWidth=20)](https://github.com/Rolemodel01291)
