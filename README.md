@@ -3,12 +3,13 @@
 [![typescript](https://img.shields.io/badge/React-Expert-FAC151.svg?logo=react&logoWidth=20)](https://github.com/Rolemodel01291)
 [![typescript](https://img.shields.io/badge/Django-Expert-FAC151.svg?logo=django&logoWidth=20)](https://github.com/Rolemodel01291)
 [![typescript](https://img.shields.io/badge/Mathematics-Expert-FAC151.svg?logo=mathematics&logoWidth=20)](https://github.com/Rolemodel01291)
-## Senior Full-Stack Engineer
+## Senior Full-Stack Engineer, Blockchain mentor
 
 Hey 👋🏻,
 
 
 I am a senior full-stack engineer with +10 years of experience.
+Fast learner, mentor in blockchain.
 
 My Proficient Skills: 
  - Frontend: React(JS/TS) & Redux(Saga/Thunk/Slice), Next.js, Vue.js, Angular, Html, CSS, Bootstrap
