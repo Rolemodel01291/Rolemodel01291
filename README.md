@@ -1,24 +1,3 @@
-![alt README header](https://raw.githubusercontent.com/Rolemodel01291/Rolemodel01291/master/assets/Picture1.png)
-![GitHub Views](https://komarev.com/ghpvc/?username=Rolemodel01291&color=FAC151)
-[![typescript](https://img.shields.io/badge/React-Expert-FAC151.svg?logo=react&logoWidth=20)](https://github.com/Rolemodel01291)
-[![typescript](https://img.shields.io/badge/Django-Expert-FAC151.svg?logo=django&logoWidth=20)](https://github.com/Rolemodel01291)
-[![typescript](https://img.shields.io/badge/Mathematics-Expert-FAC151.svg?logo=mathematics&logoWidth=20)](https://github.com/Rolemodel01291)
-## Senior Full-Stack Engineer, Blockchain mentor
-
-Hey 👋🏻,
-
-
-I am a senior full-stack engineer with +10 years of experience.
-Fast learner, mentor in blockchain.
-
-My Proficient Skills: 
- - Frontend: React(JS/TS) & Redux(Saga/Thunk/Slice), Next.js, Vue.js, Angular, Html, CSS, Bootstrap
- - Backend: Django & Django Restframework, Node.js, Express.js, Laravel, Codeigniter, PHP
- - Mobile: React Native, Ionic, Android(Java)
- - Database: MySQL, MongoDB, Postgresql
- - Tools: AWS, Azure, Docker, Heroku, Netlify, Firebase, Git, Slack
- - Stylish: Airbnb, PSR-12, PEP-8 ...
- - Others: Mathematics, Machine Learning, Strong Algorithm, Data Science, Several UI frameworks (Material UI, Ant Design, React Bootstrap, ...)
 
 ## My Main Skill Set:
 
